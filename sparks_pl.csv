@@ -1,0 +1,575 @@
+NATURA: Przyroda
+;LĄD;
+;Cecha;Krajobraz
+1;Jałowy;Bagno
+2;Suchy;Wrzosowisko
+3;Szary;Urwiska
+4;Rzadki;Szczyty
+5;Ostry;Las
+6;Tętniący życiem;Dolina
+7;Spokojny;Wzgórza
+8;Miękki;Łąka
+9;Zarosły;Moczary
+10;Jaskrawy;Jeziora
+11;Przemoczony;Polany
+12;Bujny;Równina
+
+NATURA: Przyroda-1
+;NIEBO;
+;Odcień;Tekstura
+1;Lśniący;Zorza
+2;Fioletowy;Mgła
+3;Szafirowy;Marmur
+4;Blady;Poświata
+5;Płomienny;Fale
+6;Kości słoniowej;Wiry
+7;Łupkowy;Smugi
+8;Różowy;Cętki
+9;Złoty;Promienie
+10;Krwawy;Kolumny
+11;Jasny;Połysk
+12;Atramentowy;Zatoki
+
+NATURA: Przyroda-2
+;WODA;
+;Ton;Tekstura
+1;Kryształowa;Jedwab
+2;Turkusowa;Fale
+3;Perłowa;Otchłań
+4;Błotnista;Wir
+5;Kobaltowa;Piana
+6;Zielona;Zwierciadło
+7;Oszroniona;Przypływ
+8;Ciemna;Szkło
+9;Zielonkawa;Brzeg
+10;Srebrna;Bystrza
+11;Szmaragdowa;Mgła wodna
+12;Jadeitowa;Bańki
+
+NATURA: Przyroda-3
+;POGODA;
+;Opis;Element
+1;Łagodna;Deszcz
+2;Przemijająca;Podmuchy
+3;Uporczywa;Chmury
+4;Jasna;Światło słoneczne
+5;Cienka;Mgła
+6;Chłodna;Wilgoć
+7;Gorąca;Grzmot
+8;Stała;Kurz
+9;Matowa;Ciepło
+10;Lekkie;Mżawka
+11;Obfita;Bryza
+12;Surowa;Gęsta mgła
+
+NATURA: Przyroda-1-1
+;ROŚLINNOŚĆ;
+;Natura;Forma
+1;Aromatyczna;Trawy
+2;Popielata;Wrzos
+3;Kwitnąca;Krzewy
+4;Poskręcana;Ciernie
+5;Wieżyczkowata;Korony drzew
+6;Owocna;Paprocie
+7;Parząca;Pnie
+8;Wibrująca;Pnącza
+9;Krucha;Iglaki
+10;Ciernista;Sadzonki
+11;Solidna;Trzciny
+12;Żywiczna;Korzenie
+
+NATURA: Przyroda-2-1
+;FAUNA;
+;Natura;Forma
+1;Czujna;Kopytne
+2;Pomocna;Śpiewające ptaki
+3;Gracja;Psy
+4;Głośna;Gryzonie
+5;Psotna;Płazy
+6;Podstępna;Owady
+7;Oświecająca;Kotowate
+8;Spokojna;Gady
+9;Piękna;Jastrzębie
+10;Potężna;Łasicowate
+11;Wroga;Ptactwo
+12;Zdystansowana;Niedźwiedzie
+
+NATURA: Przyroda-4
+;CECHA;
+;Natura;Forma
+1;Pogrzebana;Strumień
+2;Kolorowa;Siedzisko
+3;Ozdobna;Dół
+4;Kolczasta;Jaskinia
+5;Rozłupana;Monolit
+6;Pochowana;Kopiec
+7;Odbijająca;Kurhan
+8;Zasłonięta;Staw
+9;Gorąca;Wodospad
+10;Zatopiona;Źródło
+11;Zbeszczeszczona;Łuk
+12;Odizolowana;Krąg kamienny
+
+NATURA: Przyroda-1-2
+;CUD;
+;Motyw;Element
+1;Przyjemność;Światło
+2;Sekrety;Płomienie
+3;Proroctwo;Kamienie
+4;Uzdrowienie;Bestie
+5;Pragnienie;Iskry
+6;Pamięć;Szlaki
+7;Śmierć;Mgła
+8;Siła;Barwy
+9;Pokusa;Rośliny
+10;Ból;Wiatr
+11;Żal;Woda
+12;Czas;Cienie
+
+NATURA: Przyroda-2-2
+;ZAŚWIATY;
+;Cecha;Krajobraz
+1;Kwaśny;Równiny
+2;Czarny;Labirynt
+3;Dymny;Ruiny
+4;Zamarznięty;Schody
+5;Martwy;Pustynia
+6;Złamany;Kratery
+7;Kolosalny;Jaskinia
+8;Żywy;Dżungla
+9;Płonący;Wydmy
+10;Zamulony;Tunele
+11;Biały;Wyspa
+12;Słodki;Góra
+
+CYWILIZACJA: Przyroda
+;POSIADŁOŚĆ;
+;Styl;Cechy
+1;Mroczny;Baszty
+2;Zrujnowany;Wieża
+3;Wrogi;Mur
+4;Starożytny;Blanki
+5;Ozdobny;Cytadela
+6;Dziki;Brama
+7;Nieskazitelny;Iglica
+8;Ufortyfikowany;Kopuła
+9;Niedokończony;Latarnie
+10;Gościnny;Most
+11;Dumny;Kolumny
+12;Jasny;Fosa
+
+CYWILIZACJA: Przyroda-1
+;DZIEDZINIEC;
+;Styl;Cechy
+1;Brudny;Targowisko
+2;Opuszczony;Kuźnia
+3;Radosny;Biblioteka
+4;Wyszukany;Fontanna
+5;Pracowity;Świątynia
+6;Skromny;Forum
+7;Majestatyczny;Grobowiec
+8;Uświęcony;Ogród
+9;Rustykalny;Sala
+10;Uroczysty;Warsztaty
+11;Tętniący życiem;Arena
+12;Nieskazitelny;Garnizon
+
+CYWILIZACJA: Przyroda-2
+;TWIERDZA;
+;Centralny elem.;Dekoracja
+1;Palenisko;Poroże
+2;Tron;Srebro
+3;Muzycy;Heraldyka
+4;Basen;Kości
+5;Doradcy;Kwiaty
+6;Służba;Pisma
+7;Kaplica;Klejnoty
+8;Stół;Wieńce
+9;Relikwiarz;Świece
+10;Kocioł;Futra
+11;Żyrandol;Tkaniny
+12;Strażnicy;Tarcze
+
+CYWILIZACJA: Przyroda-3
+;JEDZENIE;
+;Jakość;Typ
+1;Przyprawione;Ryby
+2;Ziołowe;Owoce
+3;Chrupiące;Gulasz
+4;Kwaśne;Grzyby
+5;Suche;Placek
+6;Sfermentowane;Ser
+7;Solone;Orzechy
+8;Wilgotne;Ciasto
+9;Tłuste;Owsianka
+10;Ciągnące się;Chleb
+11;Słodkie;Warzywa
+12;Łagodne;Mięso
+
+CYWILIZACJA: Przyroda-1-1
+;TOWARY;
+;Temat;Typ
+1;Wojskowe;Tkaniny
+2;Obfite;Żywy inwentarz
+3;Tradycyjne;Zboże
+4;Specjalistyczne;Miód pitny
+5;Przemysłowe;Narzędzia
+6;Innowacyjne;Kamień
+7;Tajemnicze;Drewno
+8;Proste;Ceramika
+9;Solidne;Metal
+10;Zdobione;Skóry
+11;Delikatne;Miód
+12;Szczęśliwe;Zioła
+
+CYWILIZACJA: Przyroda-2-1
+;LUKSUSY;
+;Rzadkość;Typ
+1;Antyczny;Klejnot
+2;Wyszukany;Wino
+3;Unikalny;Przyprawa
+4;Rzadki;Zapach
+5;Niebezpieczny;Jedwab
+6;Nieskazitelny;Futro
+7;Lśniący;Dzieło sztuki
+8;Zagubiony;Miecz
+9;Ezoteryczny;Stworzenie
+10;Święty;Ruda
+11;Mityczny;Korzeń
+12;Piękny;Pismo
+
+CYWILIZACJA: Przyroda-4
+;DRAMAT;
+;Motyw;Szczegół
+1;Zdrada;Bójka
+2;Zazdrość;Trucizna
+3;Rywalizacja;Przysięgfa
+4;Niewierność;Uczta
+5;Zamach stanu;Listy
+6;Ambicja;Przebranie
+7;Odkupienie;Dziedzictwo
+8;Objawienie;Skrytobójca
+9;Gniew;Rodzina
+10;Chciwość;Alkohol
+11;Wygnanie;Szantaż
+12;Manipulacja;Złoto
+
+CYWILIZACJA: Przyroda-1-2
+;NIESZCZĘŚCIE;
+;Opis;Zdarzenie
+1;Skryte;Choroba
+2;Gwałtowne;Głód
+3;Zbliżające się;Naloty
+4;Nagłe;Inwazja
+5;Trwające;Porwanie
+6;Przepowiedziane;Szturm
+7;Tajemnicze;Ogień
+8;Zatwierdzone;Bunt
+9;Niewidoczne;Wygnanie
+10;Ogromne;Bestia
+11;Narastające;Zabójstwo
+12;Ukryte;Kradzież
+
+CYWILIZACJA: Przyroda-2-2
+;WIEŚCI;
+;Temat;Nastrój
+1;Pojedynek;Zadumany
+2;Narodziny;Radosny
+3;Targ;Zadowolony
+4;Proces;Podzielony
+5;Obrzęd;Wściekły
+6;Najemnicy;Sceptyczny
+7;Festiwal;Uwielbiający
+8;Turniej;Nostalgiczny
+9;Kara;Zjednoczony
+10;Występ;Ponury
+11;Śmierć;Uroczysty
+12;Ślub;Optymistyczny
+
+LUDZIE: Przyroda
+;WYGLĄD;
+;Postura;Strój
+1;Delikatna;Opancerzony
+2;Niski;Podarty
+3;Krzepki;Jaskrawy
+4;Twardy;Surowy
+5;Wychudzony;Eklektyczny
+6;Chłodny;Tradycyjny
+7;Ciepły;Wygodny
+8;Młodzieńczy;Krzykliwy
+9;Miękki;Ponury
+10;Chorowity;Zdobiony
+11;Wysoki;Użytkowy
+12;Szorstki;Elegancki
+
+LUDZIE: Przyroda-1
+;GŁOS;
+;Ton;Maniery
+1;Szeptany;Formalny
+2;Kojący;Poetycki
+3;Gładki;Dokładny
+4;Płaski;Intensywny
+5;Mamroczący;Chaotyczny
+6;Słaby;Zdystansowany
+7;Silny;Namiętny
+8;Niepewny;Zwięzły
+9;Melodyjny;Zrelaksowany
+10;Chrapliwy;Bezceremonialny
+11;Niestabilny;Hałaśliwy
+12;Donośny;Przyjazny
+
+LUDZIE: Przyroda-2
+;OSOBOWOŚĆ;
+;Zachowanie;Zainteresowanie
+1;Ostrożny;Botanika
+2;Duchowy;Historia
+3;Intelektualny;Muzyka
+4;Ambitny;Hazard
+5;Spokojny;Zwierzęta
+6;Prawy;Sztuka
+7;Empatyczny;Gotowanie
+8;Niestablilny;Rzemiosło
+9;Wścibski;Wędkarstwo
+10;Melancholijny;Moda
+11;Cyniczny;Polowanie
+12;Porywczy;Opowieści
+
+LUDZIE: Przyroda-3
+;RELACJE;
+;Stan;Więź
+1;Uwielbiający;Krewny
+2;Niechętny;Przyjaciel
+3;Skryty;Kochanek
+4;Wyobcowany;Małżonek
+5;Nienawistny;Zwolennik
+6;Oschły;Sojusznik
+7;Harmonijny;Rywal
+8;Intymny;Następca
+9;Niedawny;Mentor
+10;Przysięgły;Równy
+11;Burzliwy;Wróg
+12;Urażony;Opiekun
+
+LUDZIE: Przyroda-1-1
+;PRAGNIENIA;
+;Ambicja;Motyw
+1;Ucieczka;Wolność
+2;Bogactwo;Miłość
+3;Status;Dziedzictwo
+4;Wiedza;Odzyskanie
+5;Mistrzostwo;Zemsta
+6;Dziedzictwo;Obowiązek
+7;Małżeństwo;Strach
+8;Prawda;Wina
+9;Podróż;Uznanie
+10;Władza;Opór
+11;Bezpieczeństwo;Ciekawość
+12;Przebaczenie;Nienawiść
+
+LUDZIE: Przyroda-2-1
+;ZADANIE;
+;Działanie;Temat
+1;Zbadać;Rycerz
+2;Pojmać;Wieszcz
+3;Zniszczyć;Wasale
+4;Transport;Żywy inwentarz
+5;Odzyskać;Pomnik
+6;Naprawić;Złoto
+7;Złamać;Ruina
+8;Strzec;Zwierzęta
+9;Pomóc;Osada
+10;Ocalić;Posiadłość
+11;Ukryć;Most
+12;Tropić;Zbrojna drużyna
+
+LUDZIE: Przyroda-4
+;POCHODZENIE;
+;Wychowanie;Wspomnienie
+1;Ubóstwo;Wojna
+2;Pobożne;Migracja
+3;Wyrzutek;Jazda konna
+4;Wojskowe;Nauka
+5;Izolowane;Wygnanie
+6;Koczownicze;Radość
+7;Mordęga;Choroba
+8;Kupieckie;Ucieczka
+9;Dzikie;Rana
+10;Prestiżowe;Przyjaźń
+11;Akademickie;Egzekucja
+12;Rozpieszczone;Romans
+
+LUDZIE: Przyroda-1-2
+;DOLEGLIWOŚĆ;
+;Opis;Objaw
+1;Ukryta;Bezsenność
+2;Łagodna;Migrena
+3;Przerywana;Artretyzm
+4;Narastająca;Nudności
+5;Leczona;Fiksacja
+6;Odrzucona;Ślepota
+7;Niewyjaśńiona;Głuchota
+8;Stała;Melancholia
+9;Zmniejszająca się;Drżenie
+10;Trwała;Słabość
+11;Wyniszczająca;Kaszel
+12;Oczywista;Ospałość
+
+LUDZIE: Przyroda-2-2
+;HERALDYKA;
+;Paleta;Symbol
+1;Jasna;Bestia
+2;Gorąca;Ptak
+3;Ziemista;Ryba
+4;Bogata;Broń
+5;Metaliczna;Korona
+6;Błyszcząca;Drzewo
+7;Szara;Kwiat
+8;Klejnotowa;Część ciała
+9;Stonowana;Budowla
+10;Lekka;Pierścień
+11;Zimna;Narzędzie
+12;Ciemna;Gwiazda
+
+POTYCZKA: Przyroda
+;ŻOŁNIERZ;
+;Jakość;Typ
+1;Ruchliwy;Harcownik
+2;Niechętny;Łucznik
+3;Konny;Zwiadowca
+4;Sławny;Milicja
+5;Żarliwy;Strażnik
+6;Poborowy;Infiltrator
+7;Tchórzliwy;Najeźdźca
+8;Ciężki;Weteran
+9;Krwiożerczy;Piechur
+10;Wystrojony;Jeździec
+11;Groźny;Szarżujący
+12;Najemny;Rycerz
+
+POTYCZKA: Przyroda-1
+;BROŃ;
+;Opis;Cechy
+1;Krótka;Ostrze
+2;Drzewcowa;Włócznia
+3;Łańcuchowa;Topór
+4;Kolczasta;Buława
+5;Rozwidlona;Tasak
+6;Zakrzywiona;Młot
+7;Obciążona;Szpikulec / kolec
+8;Podwójna;Hak
+9;Skrzyżowana;Pałka
+10;Miotana;Pręt / różdżka
+11;Cienka;Kieł
+12;Długa;Miecz
+
+POTYCZKA: Przyroda-2
+;MANEWRY;
+;Działanie;Cel
+1;Zmylenie;Zdemoralizować
+2;Cios;Zmylić
+3;Przechwałki;Wykorzystać
+4;Obrona;Powstrzymać
+5;Negocjacje;Przemieścić
+6;Grad ciosów;Obserwować
+7;Szturm;Pokonać
+8;Drwina;Odsłonić
+9;Pchnięcie;Zaskoczyć
+10;Szarża;Zachwiać
+11;Nawałnica;Osłabić
+12;Prowokacja;Zastraszyć
+
+POTYCZKA: Przyroda-3
+;KONFLIKT;
+;Spór;Status
+1;Graniczny;Wojna
+2;Religijny;Najazdy
+3;Sukcesyjny;Wrogość
+4;Surowcowy;Rozejm
+5;Zadłużenia;Potyczki
+6;Zdrada;Impas
+7;Kradzież;Okupacja
+8;Podbój;Pat
+9;Małżeński;Blokada
+10;Oszustwo;Napęcie
+11;Wodny;Zapomniany
+12;Krwawa waśń;Negocjacje
+
+POTYCZKA: Przyroda-1-1
+;POJEDYNEK;
+;Warunek;Zwrot akcji
+1;Turniej rycerski;Mierzony czas
+2;Na miecze;Dół
+3;Partner;Most
+4;Drużynowy;Unieruchomienie
+5;Bez pancerza;Labirynt
+6;W łańcuchach;Łucznicy
+7;Krwawy;Ogień
+8;Śmierć;Bestie
+9;Poddanie się;Błoto
+10;Osądzony;Noc
+11;Tępy;Woda
+12;Oszczepowy;Klatka
+
+POTYCZKA: Przyroda-2-1
+;POLE BITWY;
+;Element;Szczegół
+1;Rzeka;Dym
+2;Ruiny;Błoto
+3;Wzgórze;Muchy
+4;Las;Okopy
+5;Jezioro;Wieża
+6;Posterunek;Głazy
+7;Przełęcz;Kwiaty
+8;Farma;Strumienie
+9;Szlak;Ciernie
+10;Most;Smród
+11;Mur;Wąwóz
+12;Siedziba / osada;Grobowce
+
+POTYCZKA: Przyroda-4
+;ROZSTAWIENIE;
+;Styl;Formacja
+1;Agresywny;Linia
+2;Mobilny;Kolumna
+3;Ściśnięty;Szewronowa
+4;Zwodniczy;Szeregi
+5;Osłonięty;Kwadrat
+6;Sztywny;Koło
+7;Elastyczny;Flanka
+8;Otwarty;Potyuczki
+9;Skupiony;Blok
+10;Rozproszony;Kwadrat
+11;Wzmocniony;Klin
+12;Obronny;Rozproszenie
+
+POTYCZKA: Przyroda-1-2
+;STRATEGIA;
+;Plan;Zwrot
+1;Okrążenie;Ciemność
+2;Pojmanie;Rezerwy
+3;Napaść;Dywersja
+4;Nękanie;Zdrada
+5;Grabież;Artyleria
+6;Trwanie dłużej;Kamuflaż
+7;Zasadzka;Blef
+8;Przewaga liczb.;Opóźnienie
+9;Blokada;Wabik
+10;Podział;Przynęta
+11;Skupienie;Poświęcenie
+12;Kontraktak;Ogień
+
+POTYCZKA: Przyroda-2-2
+;WYDARZENIE;
+;Temat;Zdarzenie
+1;Sprzymierzeńcy;Rozpad
+2;Morale;Atak
+3;Pogoda;Rzeź
+4;Teren;Pat
+5;Strategia;Ugrzęźnięcie
+6;Dyscyplina;Załamanie
+7;Zwierzęta;Sabotaż
+8;Okazja;Rozproszenie
+9;Oszustwo;Szarża
+10;Przywódca;Dezorientacja
+11;Łup;Pogorszenie się
+12;Broń;Odkrycie
