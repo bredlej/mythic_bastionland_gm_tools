@@ -15,6 +15,9 @@ A single-file Python tool for GMs/players:
 Works great for hex-crawls, solo play, and fast scene prompts.
 
 ---
+<img width="1447" height="992" alt="image" src="https://github.com/user-attachments/assets/3e7b4866-6e08-40e2-8073-561661dd53fe" />
+
+---
 
 ## Contents
 
