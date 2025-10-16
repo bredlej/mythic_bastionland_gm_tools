@@ -143,6 +143,30 @@ You can combine features; outputs print in order. For example:
 roll -ol -s LAND d20 + d12 --spark-file "sparks_en.csv"
 ```
 
+## Scaled Oracle System
+All oracle rolls use 1d100 and thresholds:
+- If the roll is below the center number, the answer is YES.
+- If it’s above, the answer is NO.
+- Rolling below the left or above the right threshold gives an Exceptional YES/NO.
+- Doubles (11, 22, 33…99) trigger a ⚡ Random Event.
+
+| Flag   | Description       | L  | C  | R  |
+| ------ | ----------------- | -- | -- | -- |
+| `-oc`  | Certain           | 18 | 90 | 99 |
+| `-onc` | Nearly certain    | 17 | 85 | 98 |
+| `-ovl` | Very likely       | 15 | 75 | 96 |
+| `-ol`  | Likely            | 13 | 65 | 94 |
+| `-o`   | 50/50             | 10 | 50 | 91 |
+| `-ou`  | Unlikely          | 7  | 35 | 88 |
+| `-ovu` | Very unlikely     | 5  | 25 | 86 |
+| `-oni` | Nearly impossible | 3  | 15 | 84 |
+| `-oi`  | Impossible        | 2  | 10 | 83 |
+
+Example output:
+🔮 Oracle (likely) d100 → 12  [L:13 C:65 R:94] → YES (Exceptional YES)
+🔮 Oracle (unlikely) d100 → 88 [L:7 C:35 R:88] → NO (Exceptional NO)
+🔮 Oracle (50/50) d100 → 44 [L:10 C:50 R:91] → YES ⚡ Random Event
+
 ---
 
 ## Spark tables
@@ -226,7 +250,7 @@ roll 2d6 + d4 - 1
 # Oracle
 roll -o
 roll -ol
-roll -ou
+roll -ovu
 
 # Spark: direct table
 roll -s LAND --spark-file "sparks_en.csv"
