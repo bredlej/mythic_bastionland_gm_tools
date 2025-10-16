@@ -1,6 +1,6 @@
 # `roll` — tiny tabletop RNG & oracle CLI (made for Mythic Bastionland)
 
-### DISCLAIMER: This tool was vibe coded with ChatGPT 5
+### DISCLAIMER: This tool was made with use of ChatGPT 5
 
 A single-file Python tool for GMs/players:
 
