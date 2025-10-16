@@ -5,7 +5,7 @@
 A single-file Python tool for GMs/players:
 
 * 🎲 **Dice expressions**: `2d6 + d4 - 1`, `d20`, `100`
-* 🔮 **Yes/No Oracle**: `-o`, `-ol` (likely), `-ou` (unlikely)
+* 🔮 **Scaled Oracle (d100)** — nine probabilities from Certain to Impossible `-o`, `-ol`, `-ovu`
 * ✨ **Spark tables** from CSV/JSON: `-s LAND`, `-s SKY`
 * 🌲 **Wilderness roll**: `-w`
 * 🍀 **Luck roll**: `-l`
@@ -22,6 +22,7 @@ Works great for hex-crawls, solo play, and fast scene prompts.
 * [Installation](#installation)
 * [Quick start](#quick-start)
 * [Usage](#usage)
+* [Scaled Oracle System](#scaled-oracle-system)
 * [Spark tables](#spark-tables)
 
   * [CSV format (Numbers export)](#csv-format-numbers-export)
@@ -163,10 +164,11 @@ All oracle rolls use 1d100 and thresholds:
 | `-oi`  | Impossible        | 2  | 10 | 83 |
 
 Example output:
+```
 🔮 Oracle (likely) d100 → 12  [L:13 C:65 R:94] → YES (Exceptional YES)
 🔮 Oracle (unlikely) d100 → 88 [L:7 C:35 R:88] → NO (Exceptional NO)
 🔮 Oracle (50/50) d100 → 44 [L:10 C:50 R:91] → YES ⚡ Random Event
-
+```
 ---
 
 ## Spark tables
